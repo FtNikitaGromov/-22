@@ -46,5 +46,5 @@ double MinAVG(string [] marks)
 
 
 
-[Снимок экрана (369)](https://user-images.githubusercontent.com/90610084/177032034-8712c86f-aab7-4755-95c5-745738d4e82e.png)
+![Снимок экрана (370)](https://user-images.githubusercontent.com/90610084/177032118-8276e3e4-937f-47bb-b75d-15c1dc020878.png)
 
