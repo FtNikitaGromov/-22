@@ -39,5 +39,12 @@ double MinAVG(string [] marks)
 
 К примеру, у нас есть таблица с пользователями, в которой хранятся их возраста. С помощью AVG мы можем найти их средний возраст.
 Синтаксис SELECT AVG(поле) FROM имя_таблицы WHERE условие!
+
+
+![Снимок экрана (369)](https://user-images.githubusercontent.com/90610084/177032079-7d8a7631-21c3-4cc0-9373-30c79526bcb0.png)
+
+
+
+
 [Снимок экрана (369)](https://user-images.githubusercontent.com/90610084/177032034-8712c86f-aab7-4755-95c5-745738d4e82e.png)
-![Снимок экрана (370)](https://user-images.githubusercontent.com/90610084/177032036-2fad0947-33f4-43de-b315-ebcf7eb5c950.png)
+
